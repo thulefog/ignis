@@ -1,6 +1,8 @@
 # ignis
 This is a simple, single view iOS application that illustrates setting up an iOS device such as an old iPhone to broadcast as a beacon, discoverable within a BLE range for which that device version is capable.
 
+The name __ignis__ means beacon, but in Latin. When in doubt - when it comes to a working name - see if the Latin word is workable.
+
 # Bluetooth Low Energy 
 
 The following key design and implementation aspects are worth noting in the context of brining up a simple beacon.
